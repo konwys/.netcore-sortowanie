@@ -1,0 +1,11 @@
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.exe
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.deps.json
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.runtimeconfig.json
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.runtimeconfig.dev.json
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.dll
+C:\Users\Konrad\Desktop\projekty\zad\zad\bin\Debug\netcoreapp3.0\zad.pdb
+C:\Users\Konrad\Desktop\projekty\zad\zad\obj\Debug\netcoreapp3.0\zad.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\projekty\zad\zad\obj\Debug\netcoreapp3.0\zad.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\projekty\zad\zad\obj\Debug\netcoreapp3.0\zad.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\projekty\zad\zad\obj\Debug\netcoreapp3.0\zad.dll
+C:\Users\Konrad\Desktop\projekty\zad\zad\obj\Debug\netcoreapp3.0\zad.pdb
